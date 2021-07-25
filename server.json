@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g30-128gb-white-lilac-4g-4gb-ram-tela-65-cam-quadrupla-selfie-13mp/magazineluiza/155626400/825459d0c7657f54769ac0dcd3fb5bac.jpg",
+      "name":"IPhone",
+      "description": "iPhone 11 Apple 64GB branco, Tela de 6,1”",
+      "price": 4300
+    },
+    {
+      "id": 2,
+      "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-s20-fe-128gb-cloud-mint-4g-6gb-ram-tela-65-cam-tripla-selfie-32mp/magazineluiza/155630400/5f2870ff3ce9ab58274fe9df33ec846b.jpg",
+      "name":"Samsung",
+      "description": "Smartphone Samsung Galaxy S20 FE 128GB Cloud Mint",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g30-128gb-dark-prism-4g-4gb-ram-tela-65-cam-quadrupla-selfie-13mp/magazineluiza/155626300/901adab2540095c6abd9e56b981feb82.jpg",
+      "name":"Motorola",
+      "description": "Smartphone Motorola Moto G30 128GB Dark Prism 4G",
+      "price": 2500
+    },
+    {
+      "id": 4,
+      "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-xiaomi-redmi-note-9-64gb-verde-4g-3gb-ram-653-cam-quadrupla-selfie-13mp/magazineluiza/226476500/51f55d0c09ce7e891e38a22ba3584c66.jpg",
+      "name":"Xiaomi",
+      "description": "Smartphone Xiaomi Redmi Note 9 64GB Verde 4G",
+      "price": 1800
+    }
+  ]  
+}
